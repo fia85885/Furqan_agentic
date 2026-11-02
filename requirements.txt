@@ -1,0 +1,11 @@
+# Dependencies for check_requirements script
+packaging>=21.0
+
+django==4.2
+numpy==2.3.0
+scipy==1.7.0
+scikit-learn==1.4.0
+fastapi-agent-router==0.3.1
+matplotlib==3.99.0
+six==1.16.0
+requests==2.32.0
